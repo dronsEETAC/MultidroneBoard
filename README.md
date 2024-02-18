@@ -29,5 +29,5 @@ listener 1884
 
 allow_anonymous true
 
-For more information visit the Drone Engineering Ecosystem GitHub, https://github.com/dronsEETAC/DroneEngineeringEcosystemDEE.
+
     
